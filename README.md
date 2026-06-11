@@ -13,10 +13,9 @@ An AIPET plugin is much more than a visual skin. Each PET has its own mood, pres
 ## 🚀 Quick Start
 
 1. **Clone this repository:**
-   ```bash
-   git clone [https://github.com/your-username/AIPET-SDK.git](https://github.com/your-username/AIPET-SDK.git)
-   cd AIPET-SDK
 
+```bash
+git clone https://github.com/gr3p1p3/AIPET-SDK.git
 ```
 
 2. **Explore existing PETs:** Look into the `pets/` folder to understand how behaviors are structured.
@@ -131,13 +130,6 @@ Your PET must visually or behaviorally account for the following **Normalized St
 | `focus_active` | Locked onto the active user session or specific screen region. |
 | `focus_lost` | User turned away or backgrounded the interaction. |
 
-### Extended States (Optional)
-
-For highly dynamic personalities, you can also listen to:
-
-* `curiosity_peak` (Sudden object/movement discovery)
-* `emotional_response` (Reacting to sentiment or voice tone)
-* `defensive_mode` (Reacting to specific negative social events or critical system throttling)
 
 ---
 
