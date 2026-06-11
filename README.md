@@ -12,6 +12,9 @@ An AIPET plugin is much more than a visual skin. Each PET has its own mood, pres
 
 ## 🚀 Quick Start
 
+![Social](https://getaipet.com/images/social_preview.png)
+
+
 1. **Clone this repository:**
 
 ```bash
