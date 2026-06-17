@@ -2,6 +2,9 @@
 
 Data Cloud is a luminous intelligence built from rings, particles, and a bright reactive core.
 
+![Data Cloud](./pet.png)
+
+
 - Personality: elegant, futuristic, composed
 - Unknown person: the core tightens and reacts with sharper energy
 - Thinking: grows brighter and more focused
