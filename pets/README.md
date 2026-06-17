@@ -2,6 +2,8 @@
 
 This folder contains the first public AIPET plugin examples.
 
+![Social](./social-pets.png)
+
 Each PET has a distinct personality and reaction style:
 
 - [Observer Orb](./observer-orb/README.md): a floating sentinel that tracks, scans, and hardens when something feels wrong
